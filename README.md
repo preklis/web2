@@ -24,14 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/screenshot.png)
-
-### Links
-
-- Solution URL: [Add solution URL here](https://github.com/K4UNG/project-14-job-listing-with-filtering)
-- Live Site URL: [Add live site URL here](https://k4ung14.netlify.app)
-
-## My process
+![](images/screenshot.png
 
 ### Built with
 
